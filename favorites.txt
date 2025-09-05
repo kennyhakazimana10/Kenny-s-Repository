@@ -1,12 +1,9 @@
 My Favorite Things
 
-1. Pizza
-2. Soccer
-3. Coding
-4. Music
-5. Movies
-6. Traveling
-7. Reading
-8. Swimming
-9. Chess
-10. Hiking
+1. Soccer
+2. Music
+3. Traveling
+4. Coding
+5. Video Games
+6. Reading
+7. Movies

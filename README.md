@@ -1,4 +1,7 @@
 # Kenny-s-Repository
 
 This repository contains my school assignment for listing my favorite things.
-`favorites.txt` file for my list!
+
+
+## Open File
+- [favorites.txt](favorites.txt) – a list of my favorite things
